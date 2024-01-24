@@ -6,3 +6,7 @@ Course on Python basics
 * Module 2: Notebook:
    * Link: https://github.com/kerenalli/Python/blob/main/module_2_functions.ipynb
    * Link: https://github.com/kerenalli/Python/blob/main/Module_2_Exercises.ipynb
+* Module 3:
+   * Note:
+   * Exercises:
+ 
