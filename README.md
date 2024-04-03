@@ -15,6 +15,6 @@ Course on Python basics
  * Notes: https://github.com/kerenalli/Python/blob/main/4-3-packages-in-python.ipynb
  * Notes: https://github.com/kerenalli/Python/blob/main/Packages_and_Unit_Testing.ipynb
 * Module 5:
- *  https://github.com/kerenalli/Python/blob/main/RegEx_Exercises.ipynb
- *  
+ * https://github.com/kerenalli/Python/blob/main/RegEx_Exercises.ipynb
+ * https://github.com/kerenalli/Python/blob/main/Module_5_Web_scrapping.ipynb 
  
